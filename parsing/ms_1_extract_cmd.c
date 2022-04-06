@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ms_parse_st.c                                     :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: flormich <flormich@student.42wolfsburg.de> +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/08/15 19:34:59 by flormich          #+#    #+#             */
-/*   Updated: 2021/10/21 19:49:50 by flormich         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include"../minishell_libs.h"
 
 // create the maximum size ***arr according to the number of pipes

@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ms_utils_isvariable.c                              :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: flormich <flormich@student.42wolfsburg.de> +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/12/03 12:10:06 by flormich          #+#    #+#             */
-/*   Updated: 2021/12/11 14:13:09 by flormich         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include"../minishell_libs.h"
 
 // How to put § : error: multi-character character constant [-Werror=multichar]
